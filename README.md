@@ -14,3 +14,6 @@ Se debe introducir tanto el área como las posiciones/órdenes de vuelo tal y co
 
 Ejemplo gráfico:  
 ![alt text](https://raw.githubusercontent.com/cdueso/AppDron/master/Documents/1.png)
+
+Una vez introducido todo el lote de trabajo, se deberá persionar ENTER y mostrará los resultados:
+![alt text](https://raw.githubusercontent.com/cdueso/AppDron/master/Documents/2.png)
