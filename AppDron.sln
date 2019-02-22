@@ -5,7 +5,13 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppDron", "AppDron\AppDron.csproj", "{7F05AE56-83FB-4E28-8764-8A1E0285C0D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppDron.Test", "AppDron.Test\AppDron.Test.csproj", "{1BB0D01D-4C78-421E-80A6-2FC5E16FFB9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppDron.Test", "AppDron.Test\AppDron.Test.csproj", "{1BB0D01D-4C78-421E-80A6-2FC5E16FFB9A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{B1752473-3914-4020-B09D-34352D867B68}"
+	ProjectSection(SolutionItems) = preProject
+		Documents\1.png = Documents\1.png
+		Documents\2.png = Documents\2.png
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
